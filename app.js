@@ -1,12 +1,12 @@
 //import getdata from "./sqlconnect.js";
-{
-  "name": "My extension",
-  ...
-  "permissions": [
-    "https://www.google.com/"
-  ],
-  ...
-}
+//{
+  //"name": "My extension",
+ // ...
+ // "permissions": [
+ //   "https://www.google.com/"
+ // ],
+//  ...
+//}
   
 
 const x = document.querySelector("input");
