@@ -2,8 +2,8 @@
 
 const x = document.querySelector("input");
 
-export var c;
-export var d;
+var c;
+var d;
 var data;
 var f;
 var g;
